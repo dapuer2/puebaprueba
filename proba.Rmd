@@ -28,6 +28,9 @@ plot(pressure)
 
 s <- 2:25
 s
+
+m <- matrix(c(2, 1))
+m
 ```
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
